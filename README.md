@@ -44,9 +44,9 @@ Actualmente, estoy en la vanguardia del desarrollo, especializándome en **Intel
 
 ## 🔗 Conecta Conmigo
 
-* **LinkedIn:** [Tu Enlace de LinkedIn]
-* **CV Completo:** [Link a tu CV alojado si lo tienes, o tu email]
+* **LinkedIn:** https://www.linkedin.com/in/emilianodirosaamores/
+* **+ Info:** emilianodirosa1@gmail.com
 
 <div align="center">
-  <small>Buscando equipos que apuesten por la vanguardia y la construcción de tendencias.</small>
+  <small>Buscando equipos que apuesten por la innovación y el desarrllo de tendencias.</small>
 </div>
