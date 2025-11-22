@@ -4,5 +4,6 @@
 <rect x="85" y="60" width="20" height="90" fill="#FFFFFF"/>
 <rect x="120" y="80" width="20" height="70" fill="#FFFFFF"/>
 <rect x="40" y="150" width="120" height="5" fill="#FFFFFF"/>
-<text x="100" y="180" font-family="Arial, sans-serif" font-size="20" fill="#FFFFFF" text-anchor="middle">EDA</text>
+<text x="100" y="180" font-family="Arial, sans-serif" font-size="20" fill="#FFFFFF" text-anchor="middle">EDRA</text>
+
 </svg>
