@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="data_icon.svg" alt="Logo o iniciales de Emiliano Di Rosa Amores" style="border-radius: 5%; width: 250px; height: 150px; border: 4px solid #007bff;">
+  <img src="logo.jpeg" alt="Logo o iniciales de Emiliano Di Rosa Amores" style="border-radius: 5%; width: 250px; height: 150px; border: 4px solid #007bff;">
   <h1>Emiliano Di Rosa Amores</h1>
   <h3>Data Analyst & BI Specialist | Estrategia, Innovación y AI</h3>
 </div>
